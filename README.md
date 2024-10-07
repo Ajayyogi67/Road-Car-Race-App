@@ -1,10 +1,13 @@
 #🚗 Car Race Game in VB.NET
+
 Welcome to the Car Race Game—a dynamic and engaging racing game developed using VB.NET. This project was built to showcase key aspects of game development, including speed management, collision detection, and user interaction.
 
 #🎮 Game Overview
+
 In this game, the player controls a car, navigating through a road filled with obstacles in the form of other cars. The objective is to avoid collisions and score points as you progress. The game gets progressively harder as the speed increases based on your score.
 
 #🛠️ Features
+
 * Speed Mechanics: The game dynamically adjusts the speed based on the player's score, increasing the challenge as you progress.
 * Collision Detection: The game ends when the player's car collides with any of the other cars.
 * Scoring System: The score increments as you successfully dodge the other cars.
@@ -12,6 +15,7 @@ In this game, the player controls a car, navigating through a road filled with o
 * Replay Functionality: After the game ends, players can easily restart the game.
 
 #📄 Code Explanation
+
 Key Components
 Speed Adjustment: The game speed is controlled using a speed variable, which increases as the score goes up, making the game more challenging.
 
@@ -32,7 +36,7 @@ Private Sub Race1_Tick(sender As Object, e As EventArgs) Handles Race1.Tick Car2
 Installation and Setup
 To run the game locally:
 
-Clone the repository: link
+Clone the repository: https://github.com/Ajayyogi67/Road-Car-Race-App.git
 
 Open the project in Visual Studio:
 
