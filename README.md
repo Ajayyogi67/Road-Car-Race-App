@@ -32,7 +32,7 @@ Private Sub Race1_Tick(sender As Object, e As EventArgs) Handles Race1.Tick Car2
 Installation and Setup
 To run the game locally:
 
-Clone the repository: link
+Clone the repository: link data
 
 Open the project in Visual Studio:
 
